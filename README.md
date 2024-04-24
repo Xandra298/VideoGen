@@ -7,7 +7,7 @@ It's an record of own experience of deployment and usage. Details are under *Cor
 
 ## I2vgen-XL
 [code](https://github.com/ali-vilab/VGen);
-[paper](https://arxiv.org/abs/2311.04145);
+[paper](https://arxiv.org/pdf/2311.04145.pdf);
 [source](https://modelscope.cn/models/iic/i2vgen-xl/summary)
 
 I2VGen-XL: High-Quality Image-to-Video Synthesis via Cascaded Diffusion Models
